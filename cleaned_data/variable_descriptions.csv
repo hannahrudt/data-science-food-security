@@ -1,0 +1,20 @@
+Column variable name,Description
+FIPS,Federal Information Processing Standard location code
+state,State abbreviation
+county,County name
+population,The population estimate of the county
+gdp,Gross Domestic Product in chained (2012) dollars
+pct_ge_bach,Percentage of the population with a bachelor's degree or higher
+pct_poverty,Percentage of the population living in poverty
+med_hh_inc,Median household income
+unemp_rate,Unemployment rate
+snap_per_capita,"SNAP (Supplemental Nutrition assistance Program, aka food stamps) usage per capita"
+conv_to_groc_ratio,Ratio of convenience stores to grocery stores
+pct_low_store_access,Percent of the population with low access to food stores 
+pct_covid_vax,Percentage of the population that has been vaccinated against Covid-19
+pct_hisp_vax,Percentage of the Hispanic population that has been vaccinated against Covid-19
+pct_native_vax,Percentage of the American Indian/Alaska Native population that has been vaccinated against Covid-19
+pct_asian_vax,Percentage of the Asian population that has been vaccinated against Covid-19
+pct_black_vax,Percentage of the Black population that has been vaccinated against Covid-19
+pct_isl_vax,Percentage of the Native Hawaiian/Pacific Islander population that has been vaccinated against Covid-19
+pct_white_vax,Percentage of the White population that has been vaccinated against Covid-19
