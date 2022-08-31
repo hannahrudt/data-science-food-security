@@ -20,4 +20,4 @@
 
 - The images directory contains a few auxiliary charts and figures used in the main document.
 
-- Original datasets and and cleaning were too large to include, but can be sent if necessary.
+- Original datasets and and cleaning were too large to include and can be sent if necessary.
