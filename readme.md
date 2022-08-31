@@ -6,7 +6,7 @@
 
 - Scatter plots in Summary Statistics are important to communicating context to viewers, which is one of my interests and strengths.
 
-- Introduction and Interpretation and Conclusions are examles of mastery of data analysis. These sections exemplify that I can communicate the meaning of complicated technical analyses performed by teammates. 
+- Introduction and Interpretation and Conclusions are examples of mastery of data analysis. These sections exemplify that I can communicate the meaning of complicated technical analyses performed by teammates. 
 
 ## Repository organization:
 
